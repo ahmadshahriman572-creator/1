@@ -101,4 +101,4 @@ https://mifntechnology.github.io/siaranMy/radio/RiaFm/playlist.m3u8
 https://mifntechnology.github.io/siaranMy/radio/AsyikFm/playlist.m3u8
 
 #EXTINF:-1 group-title="TEST" tvg-id="Eight FM" tvg-name="BAPAK DIA",Atuk Dia
-https://mifntechnology.github.io/siaranMy/channels/Tv3/manifest.m3u8?Auth_key=3bc3f0e518aed92e80a98118e5bc2c10&Token=5fce364fbc4499856597b19a96f44648
+https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
